@@ -145,8 +145,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For any questions or further discussion, feel free to reach out:
 
-*   **[Your Name]**
-*   GitHub: [Your GitHub Profile URL, e.g., `https://github.com/rathinadev`]
-*   LinkedIn: [Your LinkedIn Profile URL, e.g., `https://www.linkedin.com/in/rathina-devan/`]
+**Rathinadevan E M**  
+GitHub: [rathinadev](https://github.com/rathinadev)  
+LinkedIn: [rathina-devan](https://www.linkedin.com/in/rathina-devan/)
+
 
 ---
